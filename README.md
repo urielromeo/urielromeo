@@ -1,6 +1,13 @@
-Coder, artist, etc
+# Uriel Romeo
 
-<!---
-urielromeo/urielromeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software developer working across full-stack development,
+game development, and creative technology.
+
+9+ years of experience building web applications,
+games, and interactive experiences.
+
+- Full-stack: JavaScript, TypeScript, Node.js, Ruby, Python
+- Game development: Godot, GameMaker
+- Interests: Game design, creative coding, animation, pixel art
+
+Portfolio: urielromeo.com
